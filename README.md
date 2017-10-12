@@ -16,12 +16,16 @@ To assign a label we have different case:
 
 ## Install
 You can clone the repository in your local machine
+
 `git clone https://github.com/caleale90/DataAugmentation.git`
+
 or you can install it as Python package
+
 `pip install dataaugmentation`
 
 ## Usage
 The code can also be used from termina using the command:
+
 `python ExpandTrainingSet ../training.csv ../unlabeled.csv ../out-file.csv --class_index 4 --separator | --threshold 0.9`
 
 where:
