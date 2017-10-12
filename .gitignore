@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+*.xml
+*.csv
+.idea/
+dataaugmentation/
+prova.csv
+to-add.csv
+training.csv
+unlabeled.csv
